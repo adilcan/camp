@@ -1,0 +1,3 @@
+#Tomcat publish data
+#Fri Aug 21 11:36:28 EEST 2015
+org.eclipse.jst.j2ee.server\:/binary\:/home/wanqcrypt/.m2/repository/org/springframework/spring-web/4.1.7.RELEASE/spring-web-4.1.7.RELEASE.jar=WEB-INF/lib/spring-web-4.1.7.RELEASE.jar

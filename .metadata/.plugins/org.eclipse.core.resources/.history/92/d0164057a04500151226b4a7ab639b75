@@ -1,0 +1,61 @@
+package tr.org.lkd.lyk2015.camp.models;
+
+import java.util.HashSet;
+import java.util.Set;
+
+<<<<<<< HEAD
+import javax.persistence.CascadeType;
+=======
+>>>>>>> 942e8fa842b19d3f356cd7d74583833cf29459ee
+import javax.persistence.Entity;
+import javax.persistence.EnumType;
+import javax.persistence.Enumerated;
+import javax.persistence.OneToMany;
+
+@Entity
+public class Student extends AbstractUser {
+
+	public enum Sex {
+		MALE, FEMALE
+	}
+
+	@Enumerated(EnumType.STRING)
+	private Sex sex;
+
+<<<<<<< HEAD
+	@OneToMany(mappedBy = "owner", cascade = CascadeType.ALL)
+	private Set<Application> applicationForms = new HashSet<>();
+=======
+	@OneToMany(mappedBy = "owner")
+	private Set<ApplicationForm> applicationForms = new HashSet<>();
+>>>>>>> 942e8fa842b19d3f356cd7d74583833cf29459ee
+
+	public Sex getSex() {
+		return sex;
+	}
+
+	public void setSex(Sex sex) {
+		this.sex = sex;
+	}
+
+<<<<<<< HEAD
+	public Set<Application> getApplicationForms() {
+		return applicationForms;
+	}
+
+	public void setApplicationForms(Set<Application> applicationForms) {
+		this.applicationForms = applicationForms;
+	}
+
+}
+=======
+	public Set<ApplicationForm> getApplicationForms() {
+		return applicationForms;
+	}
+
+	public void setApplicationForms(Set<ApplicationForm> applicationForms) {
+		this.applicationForms = applicationForms;
+	}
+
+}
+>>>>>>> 942e8fa842b19d3f356cd7d74583833cf29459ee

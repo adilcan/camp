@@ -1,0 +1,258 @@
+
+Ağu 09, 2015 15:16:15.63 NEW SESSION
+Ağu 09, 2015 15:16:15.63 
+Ağu 09, 2015 15:16:15.63 (process:2789): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Ağu 09, 2015 15:16:15.66 
+Ağu 09, 2015 15:16:15.66 (process:2795): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Ağu 09, 2015 16:23:05.35 
+Ağu 09, 2015 16:23:05.35 (process:6183): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Ağu 09, 2015 16:23:05.39 
+Ağu 09, 2015 16:23:05.39 (process:6188): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Ağu 09, 2015 16:47:04.20 
+Ağu 09, 2015 16:47:04.20 (process:8323): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Ağu 09, 2015 16:47:04.24 
+Ağu 09, 2015 16:47:04.24 (process:8328): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Ağu 09, 2015 16:50:33.02 
+Ağu 09, 2015 16:50:33.02 (process:8600): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Ağu 09, 2015 16:50:33.05 
+Ağu 09, 2015 16:50:33.05 (process:8605): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Ağu 09, 2015 16:53:18.61 
+Ağu 09, 2015 16:53:18.61 (process:8845): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Ağu 09, 2015 16:53:18.65 
+Ağu 09, 2015 16:53:18.65 (process:8850): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Ağu 09, 2015 16:54:29.13 
+Ağu 09, 2015 16:54:29.13 (process:9000): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Ağu 09, 2015 16:54:29.17 
+Ağu 09, 2015 16:54:29.17 (process:9005): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Ağu 09, 2015 16:56:52.37 
+Ağu 09, 2015 16:56:52.37 (process:9231): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Ağu 09, 2015 16:56:52.41 
+Ağu 09, 2015 16:56:52.41 (process:9236): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Ağu 09, 2015 16:57:38.65 
+Ağu 09, 2015 16:57:38.65 (process:9294): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Ağu 09, 2015 16:57:38.68 
+Ağu 09, 2015 16:57:38.68 (process:9299): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Ağu 09, 2015 17:07:38.05 
+Ağu 09, 2015 17:07:38.05 (process:9981): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Ağu 09, 2015 17:07:38.09 
+Ağu 09, 2015 17:07:38.09 (process:9986): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Ağu 09, 2015 17:09:14.60 
+Ağu 09, 2015 17:09:14.60 (process:10166): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Ağu 09, 2015 17:09:14.64 
+Ağu 09, 2015 17:09:14.64 (process:10171): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+
+Ağu 09, 2015 19:13:43.86 NEW SESSION
+Ağu 09, 2015 19:13:43.86 
+Ağu 09, 2015 19:13:43.86 (process:1826): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Ağu 09, 2015 19:13:44.71 1439136824712	FirefoxAccounts	ERROR	Failed to get data from the login manager: [Exception... "Component returned failure code: 0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE) [nsIJSCID.getService]"  nsresult: "0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE)"  location: "JS frame :: resource://gre/modules/XPCOMUtils.jsm :: XPCU_serviceLambda :: line 229"  data: no] Stack trace: XPCU_serviceLambda()@resource://gre/modules/XPCOMUtils.jsm:229 < XPCU_defineLazyGetter/<.get()@resource://gre/modules/XPCOMUtils.jsm:197 < LoginManagerStorage.prototype.get<()@resource://gre/modules/FxAccounts.jsm:1601 < next()@self-hosted:625 < TaskImpl_run()@resource://gre/modules/Task.jsm:314 < Handler.prototype.process()@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:867 < this.PromiseWalker.walkerLoop()@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:746 < this.PromiseWalker.scheduleWalkerLoop/<()@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:688 < Spinner.prototype.observe()@resource://gre/modules/AsyncShutdown.jsm:464 < <file:unknown>
+Ağu 09, 2015 19:13:44.71 1439136824714	addons.xpi-utils	ERROR	Failed to load XPI JSON data from profile: TypeError: XPIProvider.installLocationsByName is null (resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:312:4) JS Stack trace: DBAddonInternal@XPIProviderUtils.js:312:5 < this.XPIDatabase.parseDB@XPIProviderUtils.js:629:24 < XPIDB_asyncLoadDB/this._dbPromise<@XPIProviderUtils.js:732:9 < Handler.prototype.process@Promise-backend.js:867:23 < this.PromiseWalker.walkerLoop@Promise-backend.js:746:7 < this.PromiseWalker.scheduleWalkerLoop/<@Promise-backend.js:688:37 < Spinner.prototype.observe@AsyncShutdown.jsm:464:9
+Ağu 09, 2015 19:13:44.71 1439136824714	addons.xpi-utils	WARN	Rebuilding add-ons database from installed extensions.
+Ağu 09, 2015 19:13:44.71 1439136824715	addons.xpi-utils	ERROR	Failed to rebuild XPI database from installed extensions: TypeError: this.installLocations is null (resource://gre/modules/addons/XPIProvider.jsm:3365) JS Stack trace: XPI_processFileChanges@XPIProvider.jsm:3365:1 < XIPDB_rebuildDatabase@XPIProviderUtils.js:779:9 < this.XPIDatabase.parseDB@XPIProviderUtils.js:650:7 < XPIDB_asyncLoadDB/this._dbPromise<@XPIProviderUtils.js:732:9 < Handler.prototype.process@Promise-backend.js:867:23 < this.PromiseWalker.walkerLoop@Promise-backend.js:746:7 < this.PromiseWalker.scheduleWalkerLoop/<@Promise-backend.js:688:37 < Spinner.prototype.observe@AsyncShutdown.jsm:464:9
+Ağu 09, 2015 19:13:44.71 1439136824715	addons.manager	ERROR	Exception calling provider GMPProvider.getAddonByID: TypeError: this._plugins is null (resource://gre/modules/addons/GMPProvider.jsm:581:8) JS Stack trace: GMPProvider.getAddonByID@GMPProvider.jsm:581:9 < callProviderAsync@AddonManager.jsm:235:12 < getAddonByID_nextObject@AddonManager.jsm:2106:1 < AOC_callNext@AddonManager.jsm:311:7 < getAddonByID_safeCall@AddonManager.jsm:2111:13 < LightweightThemeManager_getAddonByID@LightweightThemeManager.jsm:423:7 < callProviderAsync@AddonManager.jsm:235:12 < getAddonByID_nextObject@AddonManager.jsm:2106:1 < AOC_callNext@AddonManager.jsm:311:7 < getAddonByID_safeCall@AddonManager.jsm:2111:13 < getAddonByID_getVisibleAddonForID@XPIProvider.jsm:3824:7 < makeSafe/<@XPIProviderUtils.js:145:17 < getRepositoryAddon@XPIProviderUtils.js:126:5 < this.XPIDatabase.getAddon/<@XPIProviderUtils.js:1074:9 < Handler.prototype.process@Promise-backend.js:867:23 < this.PromiseWalker.walkerLoop@Promise-backend.js:746:7 < this.PromiseWalker.scheduleWalkerLoop/<@Promise-backend.js:688:37 < Spinner.prototype.observe@AsyncShutdown.jsm:464:9
+Ağu 09, 2015 19:13:44.76 1439136824768	addons.manager	ERROR	Exception calling provider PluginProvider.getAddonByID: [Exception... "Component returned failure code: 0x80570015 (NS_ERROR_XPC_CI_RETURNED_FAILURE) [nsIJSCID.createInstance]"  nsresult: "0x80570015 (NS_ERROR_XPC_CI_RETURNED_FAILURE)"  location: "JS frame :: resource://gre/modules/addons/PluginProvider.jsm :: getIDHashForString :: line 33"  data: no] Stack trace: getIDHashForString()@resource://gre/modules/addons/PluginProvider.jsm:33 < PL_getPluginList()@resource://gre/modules/addons/PluginProvider.jsm:198 < PL_buildPluginList()@resource://gre/modules/addons/PluginProvider.jsm:219 < PL_getAddon()@resource://gre/modules/addons/PluginProvider.jsm:121 < callProviderAsync()@resource://gre/modules/AddonManager.jsm:235 < getAddonByID_nextObject()@resource://gre/modules/AddonManager.jsm:2106 < AOC_callNext()@resource://gre/modules/AddonManager.jsm:311 < getAddonByID_safeCall()@resource://gre/modules/AddonManager.jsm:2111 < callProviderAsync()@resource://gre/modules/AddonManager.jsm:239 < getAddonByID_nextObject()@resource://gre/modules/AddonManager.jsm:2106 < AOC_callNext()@resource://gre/modules/AddonManager.jsm:311 < getAddonByID_safeCall()@resource://gre/modules/AddonManager.jsm:2111 < LightweightThemeManager_getAddonByID()@resource://gre/modules/LightweightThemeManager.jsm:423 < callProviderAsync()@resource://gre/modules/AddonManager.jsm:235 < getAddonByID_nextObject()@resource://gre/modules/AddonManager.jsm:2106 < AOC_callNext()@resource://gre/modules/AddonManager.jsm:311 < getAddonByID_safeCall()@resource://gre/modules/AddonManager.jsm:2111 < getAddonByID_getVisibleAddonForID()@resource://gre/modules/addons/XPIProvider.jsm:3824 < makeSafe/<()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:145 < getRepositoryAddon()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:126 < this.XPIDatabase.getAddon/<()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1074 < Handler.prototype.process()@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:867 < this.PromiseWalker.walkerLoop()@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:746 < this.PromiseWalker.scheduleWalkerLoop/<()@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:688 < Spinner.prototype.observe()@resource://gre/modules/AsyncShutdown.jsm:464 < <file:unknown>
+Ağu 09, 2015 19:13:44.76 1439136824769	addons.manager	WARN	Exception calling callback: TypeError: addon is null (jar:file:///home/wanqcrypt/.mozilla/firefox/dzdyb8mv.default/extensions/%7Be4a8a97b-f2ed-450b-b12d-ee082ba24781%7D.xpi!/components/greasemonkey.js:34:2) JS Stack trace: @greasemonkey.js:34:3 < safeCall@AddonManager.jsm:173:5 < getAddonByID_noMoreObjects@AddonManager.jsm:2116:9 < AOC_callNext@AddonManager.jsm:305:7 < getAddonByID_safeCall@AddonManager.jsm:2111:13 < callProviderAsync@AddonManager.jsm:239:5 < getAddonByID_nextObject@AddonManager.jsm:2106:1 < AOC_callNext@AddonManager.jsm:311:7 < getAddonByID_safeCall@AddonManager.jsm:2111:13 < callProviderAsync@AddonManager.jsm:239:5 < getAddonByID_nextObject@AddonManager.jsm:2106:1 < AOC_callNext@AddonManager.jsm:311:7 < getAddonByID_safeCall@AddonManager.jsm:2111:13 < LightweightThemeManager_getAddonByID@LightweightThemeManager.jsm:423:7 < callProviderAsync@AddonManager.jsm:235:12 < getAddonByID_nextObject@AddonManager.jsm:2106:1 < AOC_callNext@AddonManager.jsm:311:7 < getAddonByID_safeCall@AddonManager.jsm:2111:13 < getAddonByID_getVisibleAddonForID@XPIProvider.jsm:3824:7 < makeSafe/<@XPIProviderUtils.js:145:17 < getRepositoryAddon@XPIProviderUtils.js:126:5 < this.XPIDatabase.getAddon/<@XPIProviderUtils.js:1074:9 < Handler.prototype.process@Promise-backend.js:867:23 < this.PromiseWalker.walkerLoop@Promise-backend.js:746:7 < this.PromiseWalker.scheduleWalkerLoop/<@Promise-backend.js:688:37 < Spinner.prototype.observe@AsyncShutdown.jsm:464:9
+Ağu 09, 2015 19:13:44.77 1439136824769	addons.manager	ERROR	Exception calling provider GMPProvider.getAddonByID: TypeError: this._plugins is null (resource://gre/modules/addons/GMPProvider.jsm:581:8) JS Stack trace: GMPProvider.getAddonByID@GMPProvider.jsm:581:9 < callProviderAsync@AddonManager.jsm:235:12 < getAddonByID_nextObject@AddonManager.jsm:2106:1 < AOC_callNext@AddonManager.jsm:311:7 < getAddonByID_safeCall@AddonManager.jsm:2111:13 < LightweightThemeManager_getAddonByID@LightweightThemeManager.jsm:423:7 < callProviderAsync@AddonManager.jsm:235:12 < getAddonByID_nextObject@AddonManager.jsm:2106:1 < AOC_callNext@AddonManager.jsm:311:7 < getAddonByID_safeCall@AddonManager.jsm:2111:13 < getAddonByID_getVisibleAddonForID@XPIProvider.jsm:3824:7 < makeSafe/<@XPIProviderUtils.js:145:17 < getRepositoryAddon@XPIProviderUtils.js:126:5 < this.XPIDatabase.getAddon/<@XPIProviderUtils.js:1074:9 < Handler.prototype.process@Promise-backend.js:867:23 < this.PromiseWalker.walkerLoop@Promise-backend.js:746:7 < this.PromiseWalker.scheduleWalkerLoop/<@Promise-backend.js:688:37 < Spinner.prototype.observe@AsyncShutdown.jsm:464:9
+Ağu 09, 2015 19:13:44.77 1439136824770	addons.manager	ERROR	Exception calling provider PluginProvider.getAddonByID: [Exception... "Component returned failure code: 0x80570015 (NS_ERROR_XPC_CI_RETURNED_FAILURE) [nsIJSCID.createInstance]"  nsresult: "0x80570015 (NS_ERROR_XPC_CI_RETURNED_FAILURE)"  location: "JS frame :: resource://gre/modules/addons/PluginProvider.jsm :: getIDHashForString :: line 33"  data: no] Stack trace: getIDHashForString()@resource://gre/modules/addons/PluginProvider.jsm:33 < PL_getPluginList()@resource://gre/modules/addons/PluginProvider.jsm:198 < PL_buildPluginList()@resource://gre/modules/addons/PluginProvider.jsm:219 < PL_getAddon()@resource://gre/modules/addons/PluginProvider.jsm:121 < callProviderAsync()@resource://gre/modules/AddonManager.jsm:235 < getAddonByID_nextObject()@resource://gre/modules/AddonManager.jsm:2106 < AOC_callNext()@resource://gre/modules/AddonManager.jsm:311 < getAddonByID_safeCall()@resource://gre/modules/AddonManager.jsm:2111 < callProviderAsync()@resource://gre/modules/AddonManager.jsm:239 < getAddonByID_nextObject()@resource://gre/modules/AddonManager.jsm:2106 < AOC_callNext()@resource://gre/modules/AddonManager.jsm:311 < getAddonByID_safeCall()@resource://gre/modules/AddonManager.jsm:2111 < LightweightThemeManager_getAddonByID()@resource://gre/modules/LightweightThemeManager.jsm:423 < callProviderAsync()@resource://gre/modules/AddonManager.jsm:235 < getAddonByID_nextObject()@resource://gre/modules/AddonManager.jsm:2106 < AOC_callNext()@resource://gre/modules/AddonManager.jsm:311 < getAddonByID_safeCall()@resource://gre/modules/AddonManager.jsm:2111 < getAddonByID_getVisibleAddonForID()@resource://gre/modules/addons/XPIProvider.jsm:3824 < makeSafe/<()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:145 < getRepositoryAddon()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:126 < this.XPIDatabase.getAddon/<()@resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:1074 < Handler.prototype.process()@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:867 < this.PromiseWalker.walkerLoop()@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:746 < this.PromiseWalker.scheduleWalkerLoop/<()@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:688 < Spinner.prototype.observe()@resource://gre/modules/AsyncShutdown.jsm:464 < <file:unknown>
+Ağu 09, 2015 19:13:44.77 1439136824770	addons.manager	WARN	Exception calling callback: TypeError: addon is null (chrome://greasemonkey-modules/content/script.js:27:2) JS Stack trace: @script.js:27:3 < safeCall@AddonManager.jsm:173:5 < getAddonByID_noMoreObjects@AddonManager.jsm:2116:9 < AOC_callNext@AddonManager.jsm:305:7 < getAddonByID_safeCall@AddonManager.jsm:2111:13 < callProviderAsync@AddonManager.jsm:239:5 < getAddonByID_nextObject@AddonManager.jsm:2106:1 < AOC_callNext@AddonManager.jsm:311:7 < getAddonByID_safeCall@AddonManager.jsm:2111:13 < callProviderAsync@AddonManager.jsm:239:5 < getAddonByID_nextObject@AddonManager.jsm:2106:1 < AOC_callNext@AddonManager.jsm:311:7 < getAddonByID_safeCall@AddonManager.jsm:2111:13 < LightweightThemeManager_getAddonByID@LightweightThemeManager.jsm:423:7 < callProviderAsync@AddonManager.jsm:235:12 < getAddonByID_nextObject@AddonManager.jsm:2106:1 < AOC_callNext@AddonManager.jsm:311:7 < getAddonByID_safeCall@AddonManager.jsm:2111:13 < getAddonByID_getVisibleAddonForID@XPIProvider.jsm:3824:7 < makeSafe/<@XPIProviderUtils.js:145:17 < getRepositoryAddon@XPIProviderUtils.js:126:5 < this.XPIDatabase.getAddon/<@XPIProviderUtils.js:1074:9 < Handler.prototype.process@Promise-backend.js:867:23 < this.PromiseWalker.walkerLoop@Promise-backend.js:746:7 < this.PromiseWalker.scheduleWalkerLoop/<@Promise-backend.js:688:37 < Spinner.prototype.observe@AsyncShutdown.jsm:464:9
+Ağu 09, 2015 19:13:45.04 
+Ağu 09, 2015 19:13:45.04 (process:1875): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Ağu 09, 2015 19:48:28.67 
+Ağu 09, 2015 19:48:28.67 ** (firefox:1875): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+Ağu 09, 2015 19:48:29.17 
+Ağu 09, 2015 19:48:29.17 ** (firefox:1875): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+Ağu 09, 2015 19:48:29.20 
+Ağu 09, 2015 19:48:29.20 ** (firefox:1875): CRITICAL **: gst_app_src_set_size: assertion 'GST_IS_APP_SRC (appsrc)' failed
+Ağu 09, 2015 20:27:09.34 WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+Ağu 09, 2015 20:27:09.34 pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+Ağu 09, 2015 20:27:09.34 nsBrowserAccess.prototype.openURI@chrome://browser/content/browser.js:15357:21
+Ağu 09, 2015 20:27:09.34 uj@https://mail.google.com/_/scs/mail-static/_/js/k=gmail.main.en.8WsQwZsaQ_8.O/m=m_i,t,it/am=PiOeBsz9e38Q6wy0Sx-osPf--90lxc8-D__dmwCSvQD4v9n_A_g_eB99IQE/rt=h/d=1/t=zcms/rs=AHGWq9CasWDvZLaRu5OQ0EHfBaiag-UdIw:541:139
+Ağu 09, 2015 20:27:09.34 Hcb.prototype.openWindow@https://mail.google.com/_/scs/mail-static/_/js/k=gmail.main.en.8WsQwZsaQ_8.O/m=m_i,t,it/am=PiOeBsz9e38Q6wy0Sx-osPf--90lxc8-D__dmwCSvQD4v9n_A_g_eB99IQE/rt=h/d=1/t=zcms/rs=AHGWq9CasWDvZLaRu5OQ0EHfBaiag-UdIw:1720:1194
+Ağu 09, 2015 20:27:09.34 Icb@https://mail.google.com/_/scs/mail-static/_/js/k=gmail.main.en.8WsQwZsaQ_8.O/m=m_i,t,it/am=PiOeBsz9e38Q6wy0Sx-osPf--90lxc8-D__dmwCSvQD4v9n_A_g_eB99IQE/rt=h/d=1/t=zcms/rs=AHGWq9CasWDvZLaRu5OQ0EHfBaiag-UdIw:1721:247
+Ağu 09, 2015 20:27:09.34 iw@https://mail.google.com/_/scs/mail-static/_/js/k=gmail.main.en.8WsQwZsaQ_8.O/m=m_i,t,it/am=PiOeBsz9e38Q6wy0Sx-osPf--90lxc8-D__dmwCSvQD4v9n_A_g_eB99IQE/rt=h/d=1/t=zcms/rs=AHGWq9CasWDvZLaRu5OQ0EHfBaiag-UdIw:1721:57
+Ağu 09, 2015 20:27:09.34 f.zK@https://mail.google.com/_/scs/mail-static/_/js/k=gmail.main.en.8WsQwZsaQ_8.O/m=m_i,t,it/am=PiOeBsz9e38Q6wy0Sx-osPf--90lxc8-D__dmwCSvQD4v9n_A_g_eB99IQE/rt=h/d=1/t=zcms/rs=AHGWq9CasWDvZLaRu5OQ0EHfBaiag-UdIw:2343:66
+Ağu 09, 2015 20:27:09.34 TL.prototype.Xg@/_/scs/mail-static/_/js/k=gmail.main.en.8WsQwZsaQ_8.O/m=sy452,sy173,sy429,sy433,sy169,sy443,sy321,sy431,sy439,sy445,sy444,sy442,sy456,sy425,sy67,sy428,sy441,sy447,sy455,sy464,sy460,sy62,sy187,sy197,sy219,sy220,sy221,sy230,sy229,sy411,sy424,sy426,sy427,sy430,sy432,sy435,sy440,sy446,sy448,sy454,sy458,sy459,sy465,sy461,sy462,sy463,sy468,cv/am=PiOeBsz9e38Q6wy0Sx-osPf--90lxc8-D__dmwCSvQD4v9n_A_g_eB99IQE/rt=j/t=zcms/rs=AHGWq9CasWDvZLaRu5OQ0EHfBaiag-UdIw:919:316
+Ağu 09, 2015 20:27:09.34 TL.prototype.Tia@/_/scs/mail-static/_/js/k=gmail.main.en.8WsQwZsaQ_8.O/m=sy452,sy173,sy429,sy433,sy169,sy443,sy321,sy431,sy439,sy445,sy444,sy442,sy456,sy425,sy67,sy428,sy441,sy447,sy455,sy464,sy460,sy62,sy187,sy197,sy219,sy220,sy221,sy230,sy229,sy411,sy424,sy426,sy427,sy430,sy432,sy435,sy440,sy446,sy448,sy454,sy458,sy459,sy465,sy461,sy462,sy463,sy468,cv/am=PiOeBsz9e38Q6wy0Sx-osPf--90lxc8-D__dmwCSvQD4v9n_A_g_eB99IQE/rt=j/t=zcms/rs=AHGWq9CasWDvZLaRu5OQ0EHfBaiag-UdIw:916:346
+Ağu 09, 2015 20:27:09.34 Ada@https://mail.google.com/_/scs/mail-static/_/js/k=gmail.main.en.8WsQwZsaQ_8.O/m=m_i,t,it/am=PiOeBsz9e38Q6wy0Sx-osPf--90lxc8-D__dmwCSvQD4v9n_A_g_eB99IQE/rt=h/d=1/t=zcms/rs=AHGWq9CasWDvZLaRu5OQ0EHfBaiag-UdIw:93:464
+Ağu 09, 2015 20:27:09.34 vda@https://mail.google.com/_/scs/mail-static/_/js/k=gmail.main.en.8WsQwZsaQ_8.O/m=m_i,t,it/am=PiOeBsz9e38Q6wy0Sx-osPf--90lxc8-D__dmwCSvQD4v9n_A_g_eB99IQE/rt=h/d=1/t=zcms/rs=AHGWq9CasWDvZLaRu5OQ0EHfBaiag-UdIw:94:459
+Ağu 09, 2015 20:27:09.34 qfa/<@https://mail.google.com/_/scs/mail-static/_/js/k=gmail.main.en.8WsQwZsaQ_8.O/m=m_i,t,it/am=PiOeBsz9e38Q6wy0Sx-osPf--90lxc8-D__dmwCSvQD4v9n_A_g_eB99IQE/rt=h/d=1/t=zcms/rs=AHGWq9CasWDvZLaRu5OQ0EHfBaiag-UdIw:156:256
+Ağu 09, 2015 20:27:09.34 Yd.prototype.ia/c@https://mail.google.com/_/scs/mail-static/_/js/k=gmail.main.en.8WsQwZsaQ_8.O/m=m_i,t,it/am=PiOeBsz9e38Q6wy0Sx-osPf--90lxc8-D__dmwCSvQD4v9n_A_g_eB99IQE/rt=h/d=1/t=zcms/rs=AHGWq9CasWDvZLaRu5OQ0EHfBaiag-UdIw:153:134
+Ağu 09, 2015 20:27:09.34 tda/b<@https://mail.google.com/_/scs/mail-static/_/js/k=gmail.main.en.8WsQwZsaQ_8.O/m=m_i,t,it/am=PiOeBsz9e38Q6wy0Sx-osPf--90lxc8-D__dmwCSvQD4v9n_A_g_eB99IQE/rt=h/d=1/t=zcms/rs=AHGWq9CasWDvZLaRu5OQ0EHfBaiag-UdIw:91:67
+Ağu 09, 2015 20:27:44.91 Failed to open VDPAU backend libvdpau_i965.so: paylaşımlı nesne dosyası açılamıyor: Böyle bir dosya ya da dizin yok
+Ağu 09, 2015 20:27:51.52 Failed to open VDPAU backend libvdpau_i965.so: paylaşımlı nesne dosyası açılamıyor: Böyle bir dosya ya da dizin yok
+Ağu 09, 2015 20:27:51.64 console.error: privacybadger: 
+Ağu 09, 2015 20:27:51.64   Policy document request to https://www.youtube.com/.well-known/dnt-policy.txt returned with status 404
+Ağu 09, 2015 20:27:51.64 console.error: privacybadger: 
+Ağu 09, 2015 20:27:51.64   Policy document request to https://www.youtube.com/.well-known/dnt-policy.txt returned with status 404
+Ağu 09, 2015 20:27:53.20 console.error: privacybadger: 
+Ağu 09, 2015 20:27:53.20   Policy document request to https://www.youtube.com/.well-known/dnt-policy.txt returned with status 404
+Ağu 09, 2015 20:27:53.21 console.error: privacybadger: 
+Ağu 09, 2015 20:27:53.21   Policy document request to https://www.youtube.com/.well-known/dnt-policy.txt returned with status 404
+Ağu 09, 2015 20:40:38.20 
+Ağu 09, 2015 20:40:38.20 (process:5580): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Ağu 09, 2015 20:40:38.24 
+Ağu 09, 2015 20:40:38.24 (process:5585): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Ağu 09, 2015 20:43:42.97 
+Ağu 09, 2015 20:43:42.98 (process:5827): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Ağu 09, 2015 20:43:43.01 
+Ağu 09, 2015 20:43:43.01 (process:5832): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Ağu 09, 2015 20:47:26.10 
+Ağu 09, 2015 20:47:26.10 (process:6126): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Ağu 09, 2015 20:47:26.13 
+Ağu 09, 2015 20:47:26.13 (process:6131): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+
+Ağu 10, 2015 10:25:19.29 NEW SESSION
+Ağu 10, 2015 10:25:19.29 
+Ağu 10, 2015 10:25:19.29 (process:3506): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Ağu 10, 2015 10:25:19.33 
+Ağu 10, 2015 10:25:19.33 (process:3512): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+
+Ağu 11, 2015 19:23:15.65 NEW SESSION
+Ağu 11, 2015 19:23:15.65 
+Ağu 11, 2015 19:23:15.65 (process:2519): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Ağu 11, 2015 19:23:15.67 
+Ağu 11, 2015 19:23:15.67 (process:2525): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Ağu 11, 2015 19:34:45.93 
+Ağu 11, 2015 19:34:45.93 (process:3226): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Ağu 11, 2015 19:34:45.98 
+Ağu 11, 2015 19:34:45.98 (process:3231): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Ağu 11, 2015 19:37:27.04 
+Ağu 11, 2015 19:37:27.04 (process:3514): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Ağu 11, 2015 19:37:27.07 
+Ağu 11, 2015 19:37:27.07 (process:3519): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+
+Ağu 11, 2015 20:31:11.13 NEW SESSION
+Ağu 11, 2015 20:31:11.13 [5944:5944:0811/203111:ERROR:navigation_entry_screenshot_manager.cc(151)] Invalid entry with unique id: 13
+Ağu 11, 2015 20:31:12.98 [5944:5944:0811/203112:ERROR:navigation_entry_screenshot_manager.cc(151)] Invalid entry with unique id: 15
+Ağu 11, 2015 20:31:17.48 [5944:5944:0811/203117:ERROR:navigation_entry_screenshot_manager.cc(151)] Invalid entry with unique id: 16
+Ağu 11, 2015 20:31:20.67 [5944:5944:0811/203120:ERROR:navigation_entry_screenshot_manager.cc(151)] Invalid entry with unique id: 17
+Ağu 11, 2015 20:32:49.69 [5944:5944:0811/203249:ERROR:navigation_entry_screenshot_manager.cc(151)] Invalid entry with unique id: 18
+Ağu 11, 2015 20:33:53.80 [5944:5944:0811/203353:ERROR:navigation_entry_screenshot_manager.cc(151)] Invalid entry with unique id: 19
+Ağu 11, 2015 20:34:23.85 [5944:5944:0811/203423:ERROR:navigation_entry_screenshot_manager.cc(151)] Invalid entry with unique id: 20
+Ağu 11, 2015 20:37:46.62 [68:69:0811/203746:ERROR:channel.cc(300)] RawChannel read error (connection broken)
+Ağu 11, 2015 20:39:05.17 [5944:5944:0811/203905:ERROR:navigation_entry_screenshot_manager.cc(151)] Invalid entry with unique id: 50
+Ağu 11, 2015 20:41:02.40 Mevcut tarayıcı oturumunda yeni pencere oluşturuldu.
+Ağu 11, 2015 20:44:54.59 [5944:5944:0811/204454:ERROR:navigation_entry_screenshot_manager.cc(151)] Invalid entry with unique id: 52
+Ağu 11, 2015 20:44:57.43 [5944:5944:0811/204457:ERROR:navigation_entry_screenshot_manager.cc(151)] Invalid entry with unique id: 58
+Ağu 11, 2015 20:44:58.60 [5944:5944:0811/204458:ERROR:navigation_entry_screenshot_manager.cc(151)] Invalid entry with unique id: 59
+Ağu 11, 2015 20:56:04.25 [9056:9056:0811/205604:ERROR:navigation_entry_screenshot_manager.cc(151)] Invalid entry with unique id: 13
+Ağu 11, 2015 20:56:05.76 [9056:9056:0811/205605:ERROR:navigation_entry_screenshot_manager.cc(151)] Invalid entry with unique id: 15
+Ağu 11, 2015 20:56:08.91 [9056:9056:0811/205608:ERROR:navigation_entry_screenshot_manager.cc(151)] Invalid entry with unique id: 16
+Ağu 11, 2015 20:59:24.05 [9056:9056:0811/205924:ERROR:navigation_entry_screenshot_manager.cc(151)] Invalid entry with unique id: 17
+Ağu 11, 2015 20:59:40.59 [9056:9056:0811/205940:ERROR:navigation_entry_screenshot_manager.cc(151)] Invalid entry with unique id: 18
+Ağu 11, 2015 21:06:05.74 Mevcut tarayıcı oturumunda yeni pencere oluşturuldu.
+Ağu 11, 2015 21:08:32.61 [9056:9056:0811/210832:ERROR:navigation_entry_screenshot_manager.cc(151)] Invalid entry with unique id: 19
+Ağu 11, 2015 21:09:24.42 Fontconfig error: Cannot load default config file
+Ağu 11, 2015 21:13:08.82 [11068:11068:0811/211308:ERROR:navigation_entry_screenshot_manager.cc(151)] Invalid entry with unique id: 5
+Ağu 11, 2015 21:30:25.38 [11068:11068:0811/213025:ERROR:navigation_entry_screenshot_manager.cc(151)] Invalid entry with unique id: 12
+Ağu 11, 2015 21:30:27.53 [11068:11068:0811/213027:ERROR:navigation_entry_screenshot_manager.cc(151)] Invalid entry with unique id: 32
+Ağu 11, 2015 21:30:34.13 [11068:11068:0811/213034:ERROR:navigation_entry_screenshot_manager.cc(151)] Invalid entry with unique id: 33
+
+Ağu 12, 2015 11:17:11.91 NEW SESSION
+Ağu 12, 2015 11:17:11.91 [6556:6556:0812/111711:ERROR:navigation_entry_screenshot_manager.cc(151)] Invalid entry with unique id: 7
+Ağu 12, 2015 11:17:13.36 [6556:6556:0812/111713:ERROR:navigation_entry_screenshot_manager.cc(151)] Invalid entry with unique id: 17
+Ağu 12, 2015 11:17:15.23 [6556:6556:0812/111715:ERROR:navigation_entry_screenshot_manager.cc(151)] Invalid entry with unique id: 18
+Ağu 12, 2015 11:17:17.34 [6556:6556:0812/111717:ERROR:navigation_entry_screenshot_manager.cc(151)] Invalid entry with unique id: 19
+Ağu 12, 2015 11:18:45.01 [7:8:0812/111845:ERROR:channel.cc(300)] RawChannel read error (connection broken)
+Ağu 12, 2015 11:22:44.64 [104:105:0812/112244:ERROR:channel.cc(300)] RawChannel read error (connection broken)
+Ağu 12, 2015 11:40:03.45 [6556:6556:0812/114003:ERROR:navigation_entry_screenshot_manager.cc(151)] Invalid entry with unique id: 63
+Ağu 12, 2015 11:44:41.05 [6556:6556:0812/114441:ERROR:navigation_entry_screenshot_manager.cc(151)] Invalid entry with unique id: 65
+Ağu 12, 2015 11:45:20.79 [6556:6556:0812/114520:ERROR:navigation_entry_screenshot_manager.cc(151)] Invalid entry with unique id: 66
+Ağu 12, 2015 12:04:36.92 [6556:6556:0812/120436:ERROR:navigation_entry_screenshot_manager.cc(151)] Invalid entry with unique id: 122
+Ağu 12, 2015 12:15:04.08 [6556:6556:0812/121504:ERROR:navigation_entry_screenshot_manager.cc(151)] Invalid entry with unique id: 127
+Ağu 12, 2015 12:15:10.67 [6556:6556:0812/121510:ERROR:navigation_entry_screenshot_manager.cc(151)] Invalid entry with unique id: 132
+Ağu 12, 2015 12:26:40.60 [6556:6556:0812/122640:ERROR:navigation_entry_screenshot_manager.cc(151)] Invalid entry with unique id: 274
+
+Ağu 12, 2015 14:20:49.59 NEW SESSION
+Ağu 12, 2015 14:20:49.59 [2070:2070:0812/142049:ERROR:navigation_entry_screenshot_manager.cc(151)] Invalid entry with unique id: 7
+Ağu 12, 2015 14:20:53.56 [2070:2070:0812/142053:ERROR:navigation_entry_screenshot_manager.cc(151)] Invalid entry with unique id: 9
+Ağu 12, 2015 14:21:17.69 [7:8:0812/142117:ERROR:channel.cc(300)] RawChannel read error (connection broken)
+Ağu 12, 2015 15:41:57.40 [29:30:0812/154157:ERROR:channel.cc(300)] RawChannel read error (connection broken)
+Ağu 12, 2015 16:51:36.86 Mevcut tarayıcı oturumunda yeni pencere oluşturuldu.
+
+Ağu 12, 2015 21:15:25.94 NEW SESSION
+Ağu 12, 2015 21:15:25.94 Mevcut tarayıcı oturumunda yeni pencere oluşturuldu.
+
+Ağu 13, 2015 09:51:07.53 NEW SESSION
+Ağu 13, 2015 09:51:07.53 [2901:2901:0813/095107:ERROR:navigation_entry_screenshot_manager.cc(151)] Invalid entry with unique id: 7
+Ağu 13, 2015 09:51:09.95 [2901:2901:0813/095109:ERROR:navigation_entry_screenshot_manager.cc(151)] Invalid entry with unique id: 11
+Ağu 13, 2015 09:54:20.22 [2901:2901:0813/095420:ERROR:navigation_entry_screenshot_manager.cc(151)] Invalid entry with unique id: 12
+Ağu 13, 2015 09:54:22.70 [2901:2901:0813/095422:ERROR:navigation_entry_screenshot_manager.cc(151)] Invalid entry with unique id: 13
+Ağu 13, 2015 11:04:05.18 [4583:4583:0813/110405:ERROR:navigation_entry_screenshot_manager.cc(151)] Invalid entry with unique id: 1
+
+Ağu 13, 2015 11:34:15.58 NEW SESSION
+Ağu 13, 2015 11:34:15.58 Mevcut tarayıcı oturumunda yeni pencere oluşturuldu.
+Ağu 13, 2015 11:54:18.99 Mevcut tarayıcı oturumunda yeni pencere oluşturuldu.
+
+Ağu 13, 2015 16:54:27.78 NEW SESSION
+Ağu 13, 2015 16:54:27.78 [32512:32512:0813/165427:ERROR:navigation_entry_screenshot_manager.cc(151)] Invalid entry with unique id: 5
+Ağu 13, 2015 16:58:16.63 Mevcut tarayıcı oturumunda yeni pencere oluşturuldu.
+Ağu 13, 2015 17:12:38.09 Fontconfig error: Cannot load default config file
+
+Ağu 15, 2015 19:24:14.39 NEW SESSION
+Ağu 15, 2015 19:24:14.39 [14621:14621:0815/192414:ERROR:navigation_entry_screenshot_manager.cc(151)] Invalid entry with unique id: 5
+Ağu 15, 2015 19:53:55.59 Mevcut tarayıcı oturumunda yeni pencere oluşturuldu.
+Ağu 15, 2015 19:59:37.06 [14621:14621:0815/195937:ERROR:navigation_entry_screenshot_manager.cc(151)] Invalid entry with unique id: 16
+Ağu 15, 2015 19:59:41.47 [14621:14621:0815/195941:ERROR:navigation_entry_screenshot_manager.cc(151)] Invalid entry with unique id: 19
+Ağu 15, 2015 20:24:21.83 [51:52:0815/202421:ERROR:channel.cc(300)] RawChannel read error (connection broken)
+Ağu 15, 2015 20:52:13.88 Mevcut tarayıcı oturumunda yeni pencere oluşturuldu.
+
+Ağu 16, 2015 10:33:49.09 NEW SESSION
+Ağu 16, 2015 10:33:49.09 [2052:2052:0816/103349:ERROR:navigation_entry_screenshot_manager.cc(151)] Invalid entry with unique id: 5
+Ağu 16, 2015 10:45:24.12 [2052:2052:0816/104524:ERROR:navigation_entry_screenshot_manager.cc(151)] Invalid entry with unique id: 41
+Ağu 16, 2015 10:59:18.41 Mevcut tarayıcı oturumunda yeni pencere oluşturuldu.
+Ağu 16, 2015 11:51:11.66 Mevcut tarayıcı oturumunda yeni pencere oluşturuldu.
+Ağu 16, 2015 11:51:20.61 [2052:2052:0816/115120:ERROR:navigation_entry_screenshot_manager.cc(151)] Invalid entry with unique id: 70
+Ağu 16, 2015 15:43:19.94 Fontconfig error: Cannot load default config file
+Ağu 16, 2015 15:43:32.36 Mevcut tarayıcı oturumunda yeni pencere oluşturuldu.
+Ağu 16, 2015 16:08:31.48 [10177:10177:0816/160831:ERROR:navigation_entry_screenshot_manager.cc(151)] Invalid entry with unique id: 79
+Ağu 16, 2015 16:41:23.47 [10177:10177:0816/164123:ERROR:navigation_entry_screenshot_manager.cc(151)] Invalid entry with unique id: 82
+Ağu 16, 2015 16:41:25.72 [10177:10177:0816/164125:ERROR:navigation_entry_screenshot_manager.cc(151)] Invalid entry with unique id: 86
+Ağu 16, 2015 16:49:35.49 Mevcut tarayıcı oturumunda yeni pencere oluşturuldu.
+Ağu 16, 2015 17:16:34.38 [10177:10177:0816/171634:ERROR:navigation_entry_screenshot_manager.cc(151)] Invalid entry with unique id: 111
+
+Ağu 16, 2015 19:37:49.15 NEW SESSION
+Ağu 16, 2015 19:37:49.15 [25463:25463:0816/193749:ERROR:navigation_entry_screenshot_manager.cc(151)] Invalid entry with unique id: 15
+Ağu 16, 2015 19:44:52.35 [25463:25463:0816/194452:ERROR:navigation_entry_screenshot_manager.cc(151)] Invalid entry with unique id: 81
+Ağu 16, 2015 20:02:58.41 [25463:25463:0816/200258:ERROR:navigation_entry_screenshot_manager.cc(151)] Invalid entry with unique id: 124
+Ağu 16, 2015 20:03:22.17 [25463:25463:0816/200322:ERROR:navigation_entry_screenshot_manager.cc(151)] Invalid entry with unique id: 126
+Ağu 16, 2015 20:17:00.84 [7:8:0816/201700:ERROR:channel.cc(300)] RawChannel read error (connection broken)
+
+Ağu 16, 2015 23:38:52.70 NEW SESSION
+Ağu 16, 2015 23:38:52.70 [32088:32088:0816/233852:ERROR:navigation_entry_screenshot_manager.cc(151)] Invalid entry with unique id: 53
+Ağu 16, 2015 23:42:09.30 [32088:32088:0816/234209:ERROR:gcm_channel_status_request.cc(87)] GCM channel request failed.
+Ağu 16, 2015 23:42:30.04 [32088:32088:0816/234230:ERROR:gcm_channel_status_request.cc(87)] GCM channel request failed.
+Ağu 16, 2015 23:43:21.12 [32088:32088:0816/234321:ERROR:gcm_channel_status_request.cc(87)] GCM channel request failed.
+Ağu 16, 2015 23:44:06.51 [32088:32088:0816/234406:ERROR:navigation_entry_screenshot_manager.cc(151)] Invalid entry with unique id: 62
+Ağu 16, 2015 23:44:54.49 [32088:32088:0816/234454:ERROR:gcm_channel_status_request.cc(87)] GCM channel request failed.
+Ağu 16, 2015 23:48:33.57 [32088:32088:0816/234833:ERROR:gcm_channel_status_request.cc(87)] GCM channel request failed.
+
+Ağu 17, 2015 14:52:02.58 NEW SESSION
+Ağu 17, 2015 14:52:02.58 [3222:3222:0817/145202:ERROR:navigation_entry_screenshot_manager.cc(151)] Invalid entry with unique id: 43
+
+Ağu 18, 2015 14:21:33.12 NEW SESSION
+Ağu 18, 2015 14:21:33.12 [4969:4969:0818/142133:ERROR:navigation_entry_screenshot_manager.cc(151)] Invalid entry with unique id: 5
+
+Ağu 19, 2015 10:38:27.89 NEW SESSION
+Ağu 19, 2015 10:38:27.89 [5411:5411:0819/103827:ERROR:navigation_entry_screenshot_manager.cc(151)] Invalid entry with unique id: 5
+Ağu 19, 2015 10:38:29.27 [11:12:0819/103829:ERROR:channel.cc(300)] RawChannel read error (connection broken)
+Ağu 19, 2015 10:38:33.60 [5411:5411:0819/103833:ERROR:navigation_entry_screenshot_manager.cc(151)] Invalid entry with unique id: 7
+
+Ağu 20, 2015 09:58:54.62 NEW SESSION
+Ağu 20, 2015 09:58:54.62 [77:78:0820/095854:ERROR:channel.cc(300)] RawChannel read error (connection broken)
+Ağu 20, 2015 10:17:06.75 Mevcut tarayıcı oturumunda yeni pencere oluşturuldu.
+Ağu 20, 2015 10:21:54.04 Fontconfig error: Cannot load default config file
+Ağu 20, 2015 10:22:16.85 [25886:25886:0820/102216:ERROR:navigation_entry_screenshot_manager.cc(151)] Invalid entry with unique id: 38
+Ağu 20, 2015 11:57:10.36 [25886:25886:0820/115710:ERROR:navigation_entry_screenshot_manager.cc(151)] Invalid entry with unique id: 81
+Ağu 20, 2015 12:00:22.85 [25886:25886:0820/120022:ERROR:navigation_entry_screenshot_manager.cc(151)] Invalid entry with unique id: 84
+Ağu 20, 2015 12:01:43.47 [25886:25886:0820/120143:ERROR:navigation_entry_screenshot_manager.cc(151)] Invalid entry with unique id: 93
+Ağu 20, 2015 12:26:27.96 [25886:25886:0820/122627:ERROR:navigation_entry_screenshot_manager.cc(151)] Invalid entry with unique id: 117
+Ağu 20, 2015 12:26:30.02 [25886:25886:0820/122630:ERROR:navigation_entry_screenshot_manager.cc(151)] Invalid entry with unique id: 119
+Ağu 20, 2015 14:06:07.04 [25886:25886:0820/140607:ERROR:navigation_entry_screenshot_manager.cc(151)] Invalid entry with unique id: 113
+Ağu 20, 2015 14:40:55.29 [25886:25886:0820/144055:ERROR:navigation_entry_screenshot_manager.cc(151)] Invalid entry with unique id: 140
+Ağu 20, 2015 14:43:29.18 [25886:25886:0820/144329:ERROR:navigation_entry_screenshot_manager.cc(151)] Invalid entry with unique id: 144
+Ağu 20, 2015 14:44:42.85 [25886:25886:0820/144442:ERROR:navigation_entry_screenshot_manager.cc(151)] Invalid entry with unique id: 146
+Ağu 20, 2015 15:05:48.18 [25886:25886:0820/150548:ERROR:navigation_entry_screenshot_manager.cc(151)] Invalid entry with unique id: 149
+
+Ağu 20, 2015 19:45:35.96 NEW SESSION
+Ağu 20, 2015 19:45:35.96 Mevcut tarayıcı oturumunda yeni pencere oluşturuldu.
+Ağu 20, 2015 19:47:36.46 Mevcut tarayıcı oturumunda yeni pencere oluşturuldu.
